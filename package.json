@@ -10,12 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-community/cli-platform-ios": "^9.3.0",
     "@react-navigation/material-top-tabs": "^6.1.1",
     "@react-navigation/native": "^6.0.8",
     "faunadb": "^4.5.2",
     "react": "18.1.0",
-    "react-native": "^0.70.3",
+    "react-native": "0.70.3",
     "react-native-pager-view": "^5.4.9",
     "react-native-paper": "^4.11.2",
     "react-native-safe-area-context": "^3.3.2",
